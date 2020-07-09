@@ -1,0 +1,10 @@
+# Visual Studio Code
+.vscode
+
+# Borland C++ 5.5
+*.exe
+*.obj
+*.tds
+
+# RAW Image Files
+*.dng
